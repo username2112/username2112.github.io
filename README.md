@@ -1,4 +1,4 @@
-## Accounts
+## Social Accounts
 Linkedin:
 
 [Parker Ives](https://www.linkedin.com/in/parker-ives/)
@@ -6,14 +6,20 @@ Linkedin:
 Github:
 
 [username2112 (Personal)](https://github.com/username2112)
+
 [Parker-Digipen (School)](https://github.com/Parker-Digipen)
 
 Twitter:
 
+[@the_boss123421](https://twitter.com/the_boss123421)
 
 Reddit:
 
 [u/OversizedDongle](https://www.reddit.com/user/OversizedDongle)
+
+Discord:
+
+Potatis1845#8749
 
 Instagram:
 
