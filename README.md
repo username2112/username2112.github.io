@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Accounts
+Linkedin:
 
-You can use the [editor on GitHub](https://github.com/username2112/username2112.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[Parker Ives](https://www.linkedin.com/in/parker-ives/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Github:
 
-### Markdown
+[username2112 (Personal)](https://github.com/username2112)
+[Parker-Digipen (School)](https://github.com/Parker-Digipen)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Twitter:
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Reddit:
 
-- Bulleted
-- List
+[u/OversizedDongle](https://www.reddit.com/user/OversizedDongle)
 
-1. Numbered
-2. List
+Instagram:
 
-**Bold** and _Italic_ and `Code` text
+meme_machine423
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### About
 
-### Jekyll Themes
+I am a computer Science kid who's been in various development environments since 3rd grade. Computer game development and the broader field of computer science have been decade long interests of mine and I've made strides to reaching a mastery in the topics. I have developed proficientcy in C, C#, Robot C, Java, JavaScript, and Python. I've primarily worked in software for data entry and analysis with FRC Team 2412 and created a unity based mobile data entry program where students are able to interactively record information of robots competing in FRC competitions to help our team better plan a strategy. I also durring COVID tutored AP Computer Science as well as Python students who averaged a B grade in their classes by the end of the year.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/username2112/username2112.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contact
+School:
 
-### Support or Contact
+Parker.School69@gmail.com
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. [test](username2112.github.io)
+Bussiness:
+
+Parker.Rocks@outlook.com
